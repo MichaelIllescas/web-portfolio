@@ -30,7 +30,6 @@ header {
 .logo {
   font-size: 30px;
   font-weight: 700;
-  color: ;
 }
 
 .navlist {
@@ -229,6 +228,22 @@ section {
   }
   .scroll-down {
     display: none;
+  }
+
+  .hero-technologies {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+  .hero-technologies h2 {
+    text-align: center;
+    width: 100%;
+
+    margin-bottom: 30px;
+  }
+  .hero-technologies img {
+    height: 95%;
+    margin: 0 auto;
   }
 }
 @media (max-width: 600px) {
