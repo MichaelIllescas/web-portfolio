@@ -223,6 +223,10 @@ section {
     width: 85%;
     margin: 5% 0 0 10%;
   }
+  .hero-img .img-jona:hover {
+    width: 95%;
+    margin: 5% 0 0 10%;
+  }
   .hero-text p {
     font-size: 80%;
   }
